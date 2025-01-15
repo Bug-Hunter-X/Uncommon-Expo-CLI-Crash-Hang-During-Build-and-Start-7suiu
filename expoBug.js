@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to manage a React Native project.  It typically manifests as an unexpected crash or hang during various CLI commands, such as `expo start`, `expo build`, or `expo publish`. The exact error message can vary, but frequently involves native module compilation issues or unexpected behavior within the Expo Go app.
